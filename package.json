@@ -1,0 +1,28 @@
+{
+  "name": "mattermost-app-file-from-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickmister/mattermost-app-file-from-text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickmister/mattermost-app-file-from-text/issues"
+  },
+  "homepage": "https://github.com/mickmister/mattermost-app-file-from-text#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "form-data": "^4.0.0",
+    "mattermost-redux": "^5.33.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
